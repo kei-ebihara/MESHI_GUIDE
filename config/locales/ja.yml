@@ -13,6 +13,11 @@ ja:
         image: 画像
         category_id: ジャンル
         category: ジャンル
+      user:
+        email: メールアドレス
+        nick_name: ニックネーム
+        avatar: プロフィール画像
+        password: パスワード
     errors:
       messages:
         record_invalid: 'バリデーションに失敗しました: %{errors}'

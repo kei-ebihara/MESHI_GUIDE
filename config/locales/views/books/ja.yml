@@ -10,6 +10,7 @@ ja:
       price: 価格帯
       price_yen: "¥%{price}"
       publish_date: 登録日
+      category: ジャンル
       description: お店の説明
       edit: 編集
       return: 戻る
